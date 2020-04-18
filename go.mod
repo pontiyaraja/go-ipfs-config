@@ -12,4 +12,5 @@ require (
 	github.com/libp2p/go-libp2p-peer v0.0.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/multiformats/go-multiaddr-dns v0.0.2
+	github.com/spacemonkeygo/openssl v0.0.0-20181017203307-c2dcc5cca94a // indirect
 )
